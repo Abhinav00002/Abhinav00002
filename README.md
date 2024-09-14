@@ -5,14 +5,14 @@
 -->
 # 💫 About Me:
 
- -🔭 I’m currently working on optimizing frac operations at Carbo Ceramics through innovative software solutions with WalkingTree Technology.
- -🌱 I’m currently learning about cybersecurity and DevOps technologies to enhance my skill set in these critical areas.
- -👯 I’m looking to collaborate on projects involving advanced microservices architectures and data management systems.
- -🤔 I’m looking for help with continuous integration and deployment strategies, as well as insights into the latest tech trends.
- -💬 Ask me about my experience with Agile methodologies or my work with cutting-edge technologies.
- -📫 How to reach me: [Your LinkedIn](https://www.linkedin.com/in/abhinavtripathi89) or [Your Email](abhinavtripathi347@gmail.com)
- -😄 Pronouns: He/Him
- -⚡ Fun fact: I once coded a full-stack web application during a hackathon in less than 24 hours!
+ 🔭 I’m currently working on optimizing frac operations at Carbo Ceramics through innovative software solutions with WalkingTree Technology.
+ 🌱 I’m currently learning about cybersecurity and DevOps technologies to enhance my skill set in these critical areas.
+ 👯 I’m looking to collaborate on projects involving advanced microservices architectures and data management systems.
+ 🤔 I’m looking for help with continuous integration and deployment strategies, as well as insights into the latest tech trends.
+ 💬 Ask me about my experience with Agile methodologies or my work with cutting-edge technologies.
+ 📫 How to reach me: [Your LinkedIn](https://www.linkedin.com/in/abhinavtripathi89) or [Your Email](abhinavtripathi347@gmail.com)
+ 😄 Pronouns: He/Him
+ ⚡ Fun fact: I once coded a full-stack web application during a hackathon in less than 24 hours!
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Abhinav Tripathi) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Abhinavtripathi409) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/AbhinavTripathi89) 
